@@ -1,12 +1,10 @@
-# Menu bar calendar
-
 Menu bar calendar is a small personal tool that shows my Google Calendar in the macOS menu bar. It is a plugin for [SwiftBar](https://github.com/swiftbar/SwiftBar) and runs only on my own Mac.
 
 ## What it does
 
 - Shows the coming week as a list, with a small picture of each day on hover.
 - Shows this week and next as a single picture, with free and busy time.
-- Shows each event in the colour it has in Google Calendar.
+- Shows events in the colours they have in Google Calendar, except that deadlines are red, public holidays are grey and events already over are faded.
 
 ## How it uses Google
 
